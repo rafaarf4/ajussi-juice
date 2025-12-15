@@ -144,6 +144,5 @@ Project ini dikembangkan oleh tim:
 4. Muhammad Naufal Arif 
 Project: Ajussi Juice — UMKM Lokal Indonesia
 
-=======
 # ajussi-juice
 Sistem Pemesanan Online Ajussi Juice
