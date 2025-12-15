@@ -143,5 +143,3 @@ Project ini dikembangkan oleh tim:
 3. Albani Daffa Restu Amba
 4. Muhammad Naufal Arif 
 
-# ajussi-juice
-Sistem Pemesanan Online Ajussi Juice
