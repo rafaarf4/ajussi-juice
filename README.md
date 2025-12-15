@@ -142,7 +142,6 @@ Project ini dikembangkan oleh tim:
 2. Tazkia Putri Hidayati
 3. Albani Daffa Restu Amba
 4. Muhammad Naufal Arif 
-Project: Ajussi Juice — UMKM Lokal Indonesia
 
 # ajussi-juice
 Sistem Pemesanan Online Ajussi Juice
